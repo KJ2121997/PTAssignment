@@ -1,0 +1,6 @@
+framework module Pods_MainPTAssignment {
+  umbrella header "Pods-MainPTAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
